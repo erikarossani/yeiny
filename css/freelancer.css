@@ -38,7 +38,7 @@ a.active {
   outline: none;
 }
 .navbar-custom a {
-  color:#e44c65;
+  color:#eef2fe;
   font-weight: bolder;
 }
 .navbar-custom .nav li a {
@@ -95,7 +95,7 @@ section.success {
   margin: 0 auto;
 }
 #portfolio .portfolio-item .portfolio-link .caption {
-  background:#d52349;
+  background:#0001fb;
   position: absolute;
   width: 100%;
   height: 100%;
@@ -105,7 +105,7 @@ section.success {
   -moz-transition: all ease 0.5s;
 }
 #portfolio .portfolio-item .portfolio-link .caption:hover {
-  opacity: 1;
+  opacity: .7;
 }
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
   position: absolute;
