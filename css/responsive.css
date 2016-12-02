@@ -16,46 +16,6 @@
     background: black;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
-}
-
-@media (min-width: 480px) {
-.inner{
-  width: 80%;
-}
-.banner{
-  width: 70%;
-  height: 30%;
-  left: 12%;
-  top: 12%;
-}
-
-.intro{
-    height: 65vh;
-}
-
-.front {
-    top: 40px;
-    font-size: 3vw;
-}
-
-.cualidades {
-  top:60px;
-  font-size: 2.5vw;
-}
-
-
-.btn-circle {
-    width: 20%;
-    height: 20%;
-    font-size: 100%;
-}
-
-.btn1{
- left:  40%;
-}
-.vid{
-  position: fixed;
-}
 
 }
 
